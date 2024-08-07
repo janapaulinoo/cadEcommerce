@@ -1,4 +1,3 @@
-[09:05] MARIA FERNANDA CASTILHO RIBEIRO
 # 📃Descrição
 Este código projeta um site de compra com o banco de dados, onde você irá adicionar um produto, marca e a categoria deste item, onde será colocado ao banco de dados.
 Criamos um banco de dados com o nome Compra onde tudo que será feito irá ficar nele.  
