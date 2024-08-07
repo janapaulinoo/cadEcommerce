@@ -2,7 +2,8 @@
 Este código projeta um site de compra com o banco de dados, onde você irá adicionar um produto, marca e a categoria deste item, onde será colocado ao banco de dados.
 Criamos um banco de dados com o nome Compra onde tudo que será feito irá ficar nele.  
 ![image info](_img/banco_de_dados.png)  
- 
+A baixo está o codigo funcionando, depois de cadastrar em cada uma das funções
+![image info](_img/fun%C3%A7%C3%A3o_c%C3%B3digo.gif)  
  
 # ⚙️Função
 🔸Iniciamo o código com um arquivo de ``conexão`` que está dentro da pasta controller, onde conecta ``PHP`` com ``Banco de dados.``  
